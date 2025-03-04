@@ -26,9 +26,13 @@ More details: Deployment.
 Warning: This is irreversible!
 Removes the single build dependency and copies all configurations (Webpack, Babel, ESLint, etc.) into your project.
 Use this only if you need full control over the build configuration.
+
 📚 Learn More
+
 Create React App Documentation
 React Official Documentation
+
+
 🔀 Additional Features
 Code Splitting – Improve performance by loading components on demand.
 Analyzing Bundle Size – Reduce bundle size for faster load times.
